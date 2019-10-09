@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "dat240.project.Gruppe2.App",
+            "projectName": "dat240-project-Gruppe2"
+        }
+    ]
+}
