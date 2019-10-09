@@ -1,5 +1,7 @@
 # Ignore Gradle project-specific cache directory
 .gradle
+scattered images/
+task 2 scattered images pc/
 
 # Ignore Gradle build output directory
 build
